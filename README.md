@@ -10,3 +10,5 @@ This project is a stylish and animated login page created using HTML and CSS. It
 - **Stylish Submit Button**: The submit button is designed with four animated border spans that create a dynamic effect when hovered over.
 - **Responsive Design**: The login page is designed to be responsive, ensuring it looks great on various screen sizes and devices.
 
+## Preview:
+https://github.com/VinayMalyala/Animated_Login_Page/assets/111955986/ed1c0042-61ee-477d-8eec-c30e44dd7339
